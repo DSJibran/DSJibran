@@ -1,22 +1,22 @@
-# Hi there, I'm Mohammad Jibran! 👋
+# Hi there, I'm Mohammad Jibran! 
 
 🎯 **Data Professional | Aspiring Data Engineer & Data Analyst**
 📍 India | 📧 jibranmd9@gmail.com
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🚀 Data professional in active career transition into **Data Engineering & Data Analytics**
-- 🎓 Pursuing **PG Diploma in Big Data Analytics** from **C-DAC Noida (2025–26)**
-- 💡 Passionate about turning raw data into actionable insights
-- 🌱 Currently deepening skills in **Azure Data Factory**, **Databricks**, and **PySpark**
-- 💬 Ask me about **SQL, Python, Tableau, or Data Pipelines**
-- 📫 Reach me at: **jibranmd9@gmail.com**
+- Data professional in active career transition into **Data Engineering & Data Analytics**
+- Pursuing **PG Diploma in Big Data Analytics** from **C-DAC Noida (2025–26)**
+-  Passionate about turning raw data into actionable insights
+-  Currently deepening skills in **Azure Data Factory**, **Databricks**, and **PySpark**
+-  Ask me about **SQL, Python, Tableau, or Data Pipelines**
+-  Reach me at: **jibranmd9@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Data Engineering & Pipelines**
 
