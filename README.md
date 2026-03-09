@@ -93,13 +93,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Jibran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSJibran&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DSJibran&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-jibran-5b116894/)
@@ -109,3 +102,4 @@
 ---
 
 ⭐ *Open to Data Engineering & Data Analyst opportunities — Let's connect!*
+
