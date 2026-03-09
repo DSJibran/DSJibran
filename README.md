@@ -101,5 +101,5 @@
 
 ---
 
-⭐ *Open to Data Engineering & Data Analyst opportunities — Let's connect!*
+⭐ *Open to Trainee/ Junior Data Engineering & Data Analyst opportunities — Let's connect!*
 
