@@ -45,6 +45,13 @@
 
 ## 📂 Featured Projects
 
+### 🍕 [End-to-End Retail Data Pipeline](https://github.com/DSJibran)
+> **Tech Stack:** Azure Data Factory, Databricks, PySpark, Delta Lake, ADLS Gen2
+- Built pipeline handling 5M+ records per batch with incremental loading via Delta Lake MERGE, reducing data refresh latency.
+-	Implemented Medallion Architecture (Bronze/Silver/Gold) improving downstream reporting efficiency.
+-	Orchestrated full end-to-end automation using ADF triggers and Databricks PySpark notebooks.
+
+
 ### 🏥 [Hospital Visits Dashboard](https://github.com/DSJibran/Hospital-Visits-Dashboard)
 > **Tech Stack:** Tableau, Excel, CSV
 - Built an interactive Tableau dashboard analyzing **9,216 Emergency Room patient visits**
@@ -99,5 +106,5 @@
 
 ---
 
-⭐ *Open to Trainee/ Junior Data Engineering & Data Analyst opportunities — Let's connect!*
+
 
