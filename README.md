@@ -1,14 +1,12 @@
 # Hi there, I'm Mohammad Jibran! 
 
-🎯 **Data Professional | Aspiring Data Engineer & Data Analyst**
+🎯 **Data Professional |  Data Engineer**
 📍 India | 📧 jibranmd9@gmail.com
 
 ---
 
 ##  About Me
 
-- Data professional in active career transition into **Data Engineering & Data Analytics**
-- Pursuing **PG Diploma in Big Data Analytics** from **C-DAC Noida (2025–26)**
 -  Passionate about turning raw data into actionable insights
 -  Currently deepening skills in **Azure Data Factory**, **Databricks**, and **PySpark**
 -  Ask me about **SQL, Python, Tableau, or Data Pipelines**
@@ -87,7 +85,7 @@
 ---
 
 ## 📜 Certifications
-
+- 🏅 **•	Fundamentals of Azure Databricks – Packt, Coursera** 
 - 🏅 **Supervised Machine Learning: Regression & Classification** – Coursera
 - 🏅 **Fundamentals of Visualization with Tableau** – UC Davis, Coursera
 
